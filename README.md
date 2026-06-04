@@ -113,5 +113,4 @@ This dashboard helps stakeholders monitor key sales metrics, identify top-perfor
 
 ---
 
-### ⭐ If you found this project useful, consider giving it a star on GitHub!
 
