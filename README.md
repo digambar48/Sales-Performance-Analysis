@@ -101,7 +101,7 @@ This dashboard helps stakeholders monitor key sales metrics, identify top-perfor
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](Screenshot 2026-04-11 212202.png)
+<a href="https://github.com/digambar48/Sales-Performance-Analysis/commit/12d885f20b364c964858a516a977d55e95493df3">Dashboard</a>
 
 ---
 
