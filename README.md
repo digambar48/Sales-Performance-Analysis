@@ -1,7 +1,5 @@
 # Sales-Performance-Analysis
 I created a dynamic Power BI dashboard to analyze sales performance and uncover business insights.
-# 📊 Sales Performance Dashboard
-
 An interactive **Sales Analytics Dashboard** built using **Power BI** to provide a comprehensive view of business performance across revenue, orders, regions, categories, customer segments, shipping modes, and product-level sales.
 
 ## 🚀 Project Overview
